@@ -1,0 +1,49 @@
+body {
+    background-color: Black;
+    text-align: center;
+    color: white;
+    padding: 100px;
+    border: 10px ridge yellow;
+    text-shadow: 5px 3px 3px #0EC0DE;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 20px;
+}
+
+
+
+input {
+    width: 95%;
+    padding: 22px 30px;
+    margin: 11px 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+button {
+    border: 5px solid red;
+    background-color: blue;
+
+    color: white;
+    padding: 19px 39px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 19px;
+    margin: 7px 5px;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+img {
+    border: 5px solid green;
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+
+
+.pop-icon {
+    width: 250px;
+    border: none;
+}
